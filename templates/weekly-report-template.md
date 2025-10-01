@@ -25,4 +25,4 @@
 
 ### [Page or Feature Name]
 
-![Description](https://github.com/yourusername/stage-time-progress/raw/main/screenshots/week-X-feature.png)
+![Description](https://github.com/prsantos-com/laugh-compass-progress/raw/main/screenshots/week-X-feature.png)
