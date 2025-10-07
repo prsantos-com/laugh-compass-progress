@@ -33,4 +33,4 @@
 
 ### Home Page (humble beginnings)
 
-![Initial home page](https://github.com/prsantos-com/laugh-compass-progress/raw/main/screenshots/week-1-home-page.png)
+![Initial home page](https://github.com/prsantos-com/laugh-compass-progress/raw/main/screenshots/week-2-home-page.png)
