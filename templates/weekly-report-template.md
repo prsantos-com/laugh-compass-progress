@@ -11,7 +11,7 @@
 
 ## ✅ Decided
 
-- [One key decision] -> Went with [choice] because [brief reason]
+- [One key decision or more] -> Went with [choice] because [brief reason]
 
 ## 💭 Stuck/Learned
 
